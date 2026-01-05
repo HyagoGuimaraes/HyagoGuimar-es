@@ -29,13 +29,10 @@
 
 ### 📫 Entre em contato
 
-<a href="mailto:rosah3677@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/hyago-rosa-guimar%C3%A3es-63726b29a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### 📫 Entre em contato
 
+<a href="mailto:rosah3677@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/hyago-rosa-guimar%C3%A3es-63726b29a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 ---
 
 ![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
